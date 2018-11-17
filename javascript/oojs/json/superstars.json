@@ -1,0 +1,116 @@
+{
+  "squadName" : "The dream ten team",
+  "homeTown" : "The United States",
+  "formed" : 2012,
+  "secretBase" : "Super star",
+  "active" : true,
+  "members" : [
+    {
+      "team" : "New York Knicks",
+      "name" : "Carmelo Anthony",
+      "information" : [
+        "Arm span: 2.13m /7 ft",
+        "Nickname: cantaloupe",
+        "Jersey number: 7"
+      ]
+      "name" : "Tyson chandler",
+      "information" : [
+        "Height: 2.16m / 7ft 1 in",
+        "Professional features: center",
+        "Jersey number: 6"
+      ]
+    },
+
+    {
+      "team" : "Miami Heat",
+      "name" : "LeBron James",
+      "information" : [
+        "Height: 2.03m / 6ft 8",
+        "Position: small forward",
+        "Jersey number: 6"
+      ]
+    },
+
+    {
+      "team" : "Los Angeles Clippers",
+      "name" : "Chris Paul",
+      "information" : [
+        "Height: 1.83m (6ft)",
+        "Position: point guard",
+        "Jersey number: 3",
+      ]
+    },
+
+    {
+      "team" : "Minnesota Timberwolves",
+      "name" : "Kevin love",
+      "information" : [
+        "Jersey number: 0",
+        "Height: 2.08m / 6ft 10in",
+        "Position: power forward/center"
+      ]
+    },
+
+    {
+      "team" : "Oklahoma city thunders",
+      "name" : "Kevin durant",
+      "information" : [
+        "Height: 211cm",
+        "Position: small forward/power forward",
+        "Jersey number: 35"
+      ]
+      "name" : "James Harden",
+      "information" : [
+        "Height: 1.96 m /6 ft 5 in",
+        "Position: Field back",
+        "Jersey number: 13"
+      ]
+      "name" : "Russell Westbrook",
+      "information" : [
+        "Height: 1.91 m /6 ft 3 in",
+        "Position:point guard",
+        "Jersey number: 0"
+      ]
+    },
+
+    {
+      "team" : "Los Angeles Lakers",
+      "name" : "Kobe Bryant",
+      "information" : [
+        "Nickname: Black Manba, Peter pan",
+        "Jersey number: 8/24",
+        "Height: 1.98 m /6 ft 6 in"
+      ]
+    },
+
+    {
+      "team" : "New Orleans Hornets",
+      "name" : "Anthony Davis",
+      "information" : [
+        "Weight: 100kg / 220lb",
+        "Height: 2.08 m /6 ft 10 in",
+        "Jersey number: 23"
+      ]
+    },
+
+    {
+      "team" : "philadelphia 76ers players",
+      "name" : "Andre Iguodala",
+      "information" : [
+        "Height: 1.98 m /6 ft 6 in",
+        "Position: Point guard/small forward",
+        "Jersey number: 9"
+      ]
+    },
+
+    {
+      "team" : "Brooklyn Nets",
+      "name" : "Deron Williams",
+      "information" : [
+        "Height: 1.91 m /6 ft 3 in",
+        "Position: point guard",
+        "Jersey number: 8"
+      ]
+    }
+  ]
+}
